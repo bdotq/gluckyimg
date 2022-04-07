@@ -3,7 +3,7 @@
 // GOOGLE SEARCH LUCKY IMAGER
 // Directly serve the first image result of Google Image Search from given keyword search terms.
 // Need to create a Programmable Search Engine Id. Results may differ from standard web search depending on your Programmable Search Engine settings.
-// Use format: mysite.com/gluckyimg.php?q=apple (where 'apple' is your keywords)
+// Use format: mysite.com/gluckyimg.php?q=apple+orange (where 'apple orange' is your keywords)
 
 $apik = "GOOGLE_API_KEY";
 $csek = "PROGRAMMABLE_SEARCH_ENGINE_ID";
